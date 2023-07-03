@@ -1,0 +1,19 @@
+/* 
+          __             __                
+    _____/ /_____ ______/ /________________
+   / ___/ __/ __ `/ ___/ __/ ___/ ___/ ___/
+  (__  ) /_/ /_/ / /  / /_/ /__(__  |__  ) 
+ /____/\__/\__,_/_/   \__/\___/____/____/  v0.0.1 
+
+*/
+
+@import '../fonts/inter-variable.css';
+
+/* 🎨 custom properties 🎨 */
+
+:root {
+	--safe-top: env(safe-area-inset-top);
+	--safe-right: env(safe-area-inset-right);
+	--safe-bottom: env(safe-area-inset-bottom);
+	--safe-left: env(safe-area-inset-left);
+}
